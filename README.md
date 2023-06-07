@@ -3,9 +3,9 @@ The code for my bachelor end project.
 
 Python version 3.10 or higher is required to run the code due to switch statements.
 
-No external libraries other than numpy are required
+No external libraries other than numpy are required.
 
-Each file contains a different iteration of the simulation and genetic algorithm. 
+Each file contains a different iteration of the simulation and genetic algorithm, with V1 being the first version. 
 
 V9, V10 and V11 all feature a complete simulation, but with minor differences as to their purposes.
 
